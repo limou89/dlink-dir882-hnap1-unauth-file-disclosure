@@ -37,7 +37,6 @@ Current status: static analysis confirmed. Runtime confirmation on a physical de
 ## Vulnerability Type
 
 - CWE-306: Missing Authentication for Critical Function
-- CWE-200: Exposure of Sensitive Information to an Unauthorized Actor
 
 ## Affected Program Routines
 
